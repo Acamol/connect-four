@@ -2,7 +2,7 @@
 Connect Four
 ------------
 [![Build Status](https://travis-ci.org/Acamol/connect-four.svg?branch=master)](https://travis-ci.org/Acamol/connect-four)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Acamol/c-linked-list/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Acamol/connect-four/blob/master/LICENSE)
 
 ![Amazing graphics](https://raw.githubusercontent.com/Acamol/connect-four/screenshot/screenshot1.gif)
 
