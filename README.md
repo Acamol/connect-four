@@ -3,7 +3,7 @@ Connect Four
 ------------
 [![Build Status](https://travis-ci.org/Acamol/connect-four.svg?branch=master)](https://travis-ci.org/Acamol/connect-four)
 
-![Amazing graphics](./screenshot1.gif)
+![Amazing graphics](https://raw.githubusercontent.com/Acamol/connect-four/screenshot/screenshot1.gif)
 
 The Connected Four game written in Python with Tkinter for GUI.
 
